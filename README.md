@@ -23,7 +23,7 @@
 ### Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.KingsleyWu:RVLibs:1.0'
+	        compile 'com.github.KingsleyWu:RVLibs:1.0.1'
 	}
 
 [![](https://jitpack.io/v/KingsleyWu/RVLibs.svg)](https://jitpack.io/#KingsleyWu/RVLibs) 
